@@ -1,0 +1,3 @@
+/Users/lvzichong/course/Advanced Programing/project/project_5/build/CMakeFiles/myimage.dir
+/Users/lvzichong/course/Advanced Programing/project/project_5/build/CMakeFiles/edit_cache.dir
+/Users/lvzichong/course/Advanced Programing/project/project_5/build/CMakeFiles/rebuild_cache.dir
