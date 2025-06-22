@@ -10,6 +10,8 @@
 | Project 4 | C++语言的图像处理动态链接库  | 引入 OpenMP 与 SIMD 优化图像操作性能           | 91   |
 | Project 5 | 多语言性能比较       | 使用 Python/C++/Rust 实现图像操作并进行性能分析       | 84   |
 
+每个项目具体的内容与要求详细见每个项目中对应的文件：projectx.pdf，报告内容见 Report_of_projectx.pdf.
+
 ---
 
 ## 📌 每个项目简介
@@ -47,5 +49,11 @@
 - **依赖库**：OpenCV (Python), Rust image crate
 - **优化方式**：OpenMP 多线程、SIMD 向量化、内存对齐
 - **测试工具**：time, valgrind, memory_profiler
+
+---
+
+### 👤 作者声明
+
+本项目由 [吕梓翀](mailto:3251258336@qq.com) 完成，作为南方科技大学 CS219 高级程序设计课程的课程项目提交。所有代码与报告均为本人独立完成，未经允许禁止转载或用于任何商业用途。如有学习或合作交流意向，欢迎联系。
 
 ---
